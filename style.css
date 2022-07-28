@@ -1,0 +1,16 @@
+.carousel-caption {
+  top: 50%;
+  transform: translateY(-50%);
+  bottom: initial;
+}
+.carousel-item {
+  -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+}
+.carousel-image {
+  filter: brightness(50%);
+}
+.register-now-section {
+  background-color: #289bde;
+}
